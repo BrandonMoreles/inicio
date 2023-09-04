@@ -4,6 +4,8 @@
   "homepage": "https://brandonmoreles.github.io/inicio",
   "private": false,
   "dependencies": {
+    "gh": "^2.8.6",  
+    "pages": "0.0.16",  
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
