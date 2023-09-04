@@ -1,0 +1,20 @@
+{
+  "noticias": [
+    {
+      "encabezado": "Nada por qui, nada por alla",
+      "imagen": "../assets/images/noticia1.jpeg"
+    },
+    {
+      "encabezado": "Nada por qui, nada por alla",
+      "imagen": "../assets/images/noticia2.jpeg"
+    },
+    {
+      "encabezado": "Nada por qui, nada por alla",
+      "imagen": "../assets/images/noticia3.jpeg"
+    },
+    {
+      "encabezado": "Nada por qui, nada por alla",
+      "imagen": "../assets/images/noticia2.png"
+    }
+  ]
+}
