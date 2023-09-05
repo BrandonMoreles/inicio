@@ -24,13 +24,20 @@
     font-size: 1.4vw;
 }
 .button{
+    background-color: #a74d;
     bottom: 15%;
     border-radius: 20px;
-    padding: 1.5%;
+    padding: 1%;
     position:absolute;
     display: flex;
     align-items: center;
     justify-content: center;
     margin:5% 5%;
     font-size: 1.4vw;
+    transition: all .5s;
+}
+.button:hover{
+    background-color: #a72;
+    transform: scale(1.1);
+    cursor: pointer;
 }
