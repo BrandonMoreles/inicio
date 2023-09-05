@@ -35,7 +35,7 @@
 @media(max-width:500px){
     .listContainer{
         display: flex;
-        font-size:3vmin;
+        font-size:3.5vmin;
         justify-content: space-between;
         width: 65%;
         height: min-content;
