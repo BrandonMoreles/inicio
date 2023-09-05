@@ -11,8 +11,8 @@ const News = () => {
 
   return (
     <div className='news'>
-        <h6>Conoce las recientes</h6>
-        <h2>Noticias del mundo juridico</h2>
+        <h6 className='titleNews'>Conoce las recientes</h6>
+        <h2 className='titleNews2'>Noticias del mundo juridico</h2>
         <div className="cardContain"> 
             <Card Imagen={imagen1}texto={"El encabezado deberia de ir aqui"}/>
             <Card Imagen={imagen2}texto={"El encabezado deberia de ir aqui"}/>
