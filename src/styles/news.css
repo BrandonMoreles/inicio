@@ -10,3 +10,12 @@
 .titleNews2{
     font-size: 2vw;
 }
+
+@media(max-width:400px){
+    .cardContain{
+        display: grid;
+        flex-wrap: wrap;
+        width: 95vw;
+        grid-template-columns: 1fr;
+    }
+}
