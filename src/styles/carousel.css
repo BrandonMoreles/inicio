@@ -104,7 +104,7 @@
       padding: 10px 15px; /* Ajusta el relleno de las flechas */
       transition: background-color 0.3s; /* Agrega una transición de color de fondo */
       top: 50%; /* Coloca el botón en la mitad superior del contenedor */
-      transform: translateY(-790%); /* Centra verticalmente el botón */
+      transform: translateY(-710%); /* Centra verticalmente el botón */
     }
     .carousel-button.left {
       left: 1px; /* Ajusta la posición izquierda de la flecha izquierda */

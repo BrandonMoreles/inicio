@@ -18,4 +18,10 @@
         width: 95vw;
         grid-template-columns: 1fr;
     }
+    .titleNews{
+        font-size: 2vw;
+    }
+    .titleNews2{
+        font-size: 3vw;
+    }
 }
