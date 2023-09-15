@@ -21,6 +21,10 @@
 }
 .listItem{
     cursor: pointer;
+    transition: all .4s;
+}
+.listItem:hover{
+    transform: translateY(-30%);
 }
 @media(max-width:1200px){
     .listContainer{
