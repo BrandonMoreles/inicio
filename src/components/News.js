@@ -18,17 +18,13 @@ const News = () => {
           </div> 
           <Menu/>
         </div>
-          
-       
         <div className="cardContain"> 
             <Card Imagen={imagen1}texto={"El encabezado deberia de ir aqui"}/>
             <Card Imagen={imagen2}texto={"El encabezado deberia de ir aqui"}/>
             <Card Imagen={imagen3}texto={"El encabezado deberia de ir aqui"}/>
             <Card Imagen={imagen4}texto={"El encabezado deberia de ir aqui"}/>
         </div>
-       
     </div>
   );
 };
-
 export default News;
