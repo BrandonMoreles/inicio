@@ -19,12 +19,15 @@
     padding: auto;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+.listItem{
+    cursor: pointer;
+}
 @media(max-width:1200px){
     .listContainer{
         display: flex;
         font-size:2vmin;
         justify-content: space-between;
-        width: 40%;
+        width: 60%;
         height: min-content;
         margin: auto 2%;
         padding: auto;
